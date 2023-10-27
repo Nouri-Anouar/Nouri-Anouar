@@ -2,6 +2,10 @@
 
 ## Web Developer | Designer | Project Manager
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nouri-Anouar&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
 Welcome to my GitHub profile! I'm Nouri Abdessamad, a Web Developer and Designer with a passion for leading teams, fostering collaboration, and driving innovation. With a strong focus on mentorship and onboarding, I bring expertise in web development and design, committed to achieving results through teamwork and creativity.
 
 ### Experience
