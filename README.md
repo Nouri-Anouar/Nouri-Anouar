@@ -6,7 +6,7 @@
 
 
 
-Welcome to my GitHub profile! I'm Nouri Abdessamad, a Web Developer and Designer with a passion for leading teams, fostering collaboration, and driving innovation. With a strong focus on mentorship and onboarding, I bring expertise in web development and design, committed to achieving results through teamwork and creativity.
+Welcome to my GitHub profile! I am a Web Developer and Designer with a passion for leading teams, fostering collaboration, and driving innovation. With a strong focus on mentorship and onboarding, I bring expertise in web development and design, committed to achieving results through teamwork and creativity.
 
 ### Experience
 
