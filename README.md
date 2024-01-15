@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I am a Web Developer and Designer with a passion f
 - Open to giving and receiving clear and constructive criticism
 - Strong sense of general and self-awareness
 
-Feel free to explore my GitHub repositories to see some of my projects and contributions. If you'd like to collaborate or have any questions, please don't hesitate to reach out. Let's build the web together!
+If you'd like to collaborate or have any questions, please don't hesitate to reach out. Let's build the web together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue)](https://www.linkedin.com/in/abdessamad-nouri/)
 
